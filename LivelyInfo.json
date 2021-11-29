@@ -1,14 +1,14 @@
 {
-    "AppVersion": "0.7.0.0",
-    "Title": "Sakura",
-    "Thumbnail": "lively_t.jpg",
-    "Preview": "lively_p.gif",
-    "Desc": "Sakura webgl.",
-    "Author": "linuxaddict89",
-    "License": "MIT",
-    "Contact": "https://github.com/linuxaddict89/lively-sakura",
-    "Type": 1,
-    "FileName": "index.html",
-    "Arguments": null,
-    "IsAbsolutePath": false
-  }
+  "AppVersion": "0.7.0.0",
+  "Title": "Sakura",
+  "Thumbnail": "lively_t.jpg",
+  "Preview": "lively_p.gif",
+  "Desc": "Sakura webgl.",
+  "Author": "linuxaddict89",
+  "License": "MIT",
+  "Contact": "https://github.com/linuxaddict89/lively-sakura",
+  "Type": 1,
+  "FileName": "index.html",
+  "Arguments": null,
+  "IsAbsolutePath": false
+}
